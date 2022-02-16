@@ -1,0 +1,1 @@
+ git init, git add . , git status, git commit -m < commit message>, git checkout -b <branch> , git checkout <branch>, git pull, git push, added PST -Personal access token to git repo since password and username is deprecated 
